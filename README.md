@@ -1,6 +1,5 @@
 # Software Engineering Methods
 
-
 [![Build Status](https://travis-ci.com/rynB2/SET08103-seMethods.svg?branch=master)](https://travis-ci.com/rynB2/SET08103-seMethods)
 
 [![LICENSE](https://img.shields.io/github/license/rynB2/SET08103-seMethods.svg?style=flat-square)](https://github.com/rynB2/SET08103-seMethods/blob/master/LICENSE)
